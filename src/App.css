@@ -1,0 +1,29 @@
+.Dx{
+  margin: 2rem 2rem -1rem 2rem ;
+}
+
+.Ex{
+  font-size: 15px;
+  font-weight: bold;
+  border: 2px solid rgb(197, 24, 53);
+  border-radius:1rem;
+  background-color:rgba(245, 96, 121, 0.623);
+  padding: 5px 120px 5px 120px;
+ 
+ 
+}
+
+.dm{
+  width: 15%;
+  height: 250px;
+  background: rgb(231 224 224);
+  border: 1px solid #bbb0b059;  background: rgb(216, 212, 212)
+}
+
+.ant-row{
+  text-align: center;
+  margin:2rem;
+}
+
+
+
